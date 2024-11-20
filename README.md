@@ -1,2 +1,2 @@
 # Project.clone
-Clone
+This is my first git Repository.
